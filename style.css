@@ -1,0 +1,19 @@
+body{
+    background-color: brown;
+}
+
+title{
+    background-color: aliceblue;
+}
+
+
+
+.header img
+{
+    width:10%;
+}
+
+#dgt
+{
+    width: 15%;
+}
